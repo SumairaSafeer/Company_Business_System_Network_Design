@@ -65,10 +65,9 @@ All objectives successfully achieved and verified:
 - Cisco Packet Tracer Documentation
 
 ---
-
-## 👩‍🎓 Author
+   ## 👩‍🎓 Author
 **Sumaira Safeer**  
-BS Computer Engineering (Final Year)  
+Computer Engineer 
 COMSATS University Islamabad, Attock Campus  
 [LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
 
