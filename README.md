@@ -66,5 +66,9 @@ All objectives successfully achieved and verified:
 
 ---
 
-**Author:** Sumaira Safeer  
+## 👩‍🎓 Author
+**Sumaira Safeer**  
+BS Computer Engineering (Final Year)  
+COMSATS University Islamabad, Attock Campus  
+[LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
 
